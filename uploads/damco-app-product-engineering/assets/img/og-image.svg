@@ -1,0 +1,10 @@
+<svg viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <rect width="1200" height="630" fill="#FCFBFA"></rect>
+  <g fill="none" stroke="#120b09" stroke-opacity="0.06"><circle cx="980" cy="315" r="120"></circle><circle cx="980" cy="315" r="200"></circle><circle cx="980" cy="315" r="280"></circle></g>
+  <rect x="80" y="250" width="56" height="56" rx="12" fill="#d03326"></rect>
+  <path d="M97 268l14 12-14 12" stroke="#FCFBFA" stroke-width="5" fill="none" stroke-linecap="round" stroke-linejoin="round"></path>
+  <text x="160" y="298" font-family="Georgia,serif" font-size="44" font-weight="700" fill="#120b09">Damco</text>
+  <text x="80" y="400" font-family="Georgia,serif" font-size="62" font-weight="700" fill="#120b09">Software that thinks, ships,</text>
+  <text x="80" y="470" font-family="Georgia,serif" font-size="62" font-weight="700" fill="#120b09">and gets better every <tspan fill="#d03326">sprint.</tspan></text>
+  <text x="80" y="540" font-family="Arial,sans-serif" font-size="26" fill="#262625">Built with engineers. Accelerated by AI. Owned end to end.</text>
+</svg>

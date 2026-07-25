@@ -1,0 +1,6 @@
+<svg width="150" height="34" viewBox="0 0 150 34" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Damco">
+  <rect x="0" y="4" width="26" height="26" rx="5" fill="#d03326"></rect>
+  <path d="M7.5 11.5 L14 17 L7.5 22.5" stroke="#FCFBFA" stroke-width="2.4" stroke-linecap="round" stroke-linejoin="round" fill="none"></path>
+  <path d="M15 22.5 L18.5 22.5" stroke="#FCFBFA" stroke-width="2.4" stroke-linecap="round"></path>
+  <text x="36" y="24.5" font-family="&#39;Source Serif 4&#39;,&#39;Source Serif Pro&#39;,Georgia,serif" font-size="23" font-weight="600" fill="#FCFBFA" letter-spacing="-0.5">Damco</text>
+</svg>
